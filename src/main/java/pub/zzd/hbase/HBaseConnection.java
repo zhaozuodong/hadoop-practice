@@ -9,7 +9,7 @@ import org.apache.hadoop.hbase.client.ConnectionFactory;
 import java.io.IOException;
 
 /**
- * @Description :
+ * @Description : Hbase连接尝试
  * @Author : ZZD
  * @CreateTime : 2019/4/12 14:31
  */
